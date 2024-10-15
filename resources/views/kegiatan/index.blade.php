@@ -12,11 +12,20 @@
     </section>
 
     <section class="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-       t
             <div class="card shadow-lg bg-white rounded-lg p-6">
-                <img src="../admin/assets/images/kegiatan/<?= $data['foto'] ?>" alt="Ekstrakurikuler Seni" class="w-full h-48 object-cover rounded-t-lg">
-                <h2 class="text-2xl font-bold mt-4"><?= $data['judul'] ?></h2>
-                <p class="text-center mt-3"><?= $data['keterangan'] ?></p>
+                <img src="" alt="Ekstrakurikuler Seni" class="w-full h-48 object-cover rounded-t-lg">
+                <h2 class="text-2xl font-bold mt-4">Ini adalah Judul</h2>
+                <p class="text-center mt-3">ini adalah keterangan</p>
+            </div>
+            <div class="card shadow-lg bg-white rounded-lg p-6">
+                <img src="" alt="Ekstrakurikuler Seni" class="w-full h-48 object-cover rounded-t-lg">
+                <h2 class="text-2xl font-bold mt-4">Ini adalah Judul</h2>
+                <p class="text-center mt-3">ini adalah keterangan</p>
+            </div>
+            <div class="card shadow-lg bg-white rounded-lg p-6">
+                <img src="" alt="Ekstrakurikuler Seni" class="w-full h-48 object-cover rounded-t-lg">
+                <h2 class="text-2xl font-bold mt-4">Ini adalah Judul</h2>
+                <p class="text-center mt-3">ini adalah keterangan</p>
             </div>
     
   
