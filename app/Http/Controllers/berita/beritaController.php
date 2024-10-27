@@ -9,6 +9,7 @@ class beritaController extends Controller
 {
     public function index()
     {
-        return view('berita.index');
+        // $databerita = DB::table('berita');
+        return view('berita.index', compact('databerita'));
     }
 }
